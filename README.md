@@ -1,0 +1,1 @@
+This repository is about detecting cool things in images with OpenCV!
